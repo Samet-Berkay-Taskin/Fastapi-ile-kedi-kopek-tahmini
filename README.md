@@ -4,4 +4,4 @@ Uygulamayı run etmenize gerek yok. Terminale uvicorn kedi-1:app yazın ve daha 
 
 ["Resimdeki kedi mi köpek mi ?"] sizi karşıladıktan sonra linki http://127.0.0.1:8000/docs şeklinde değiştirin. Açılan sayfada yeşil renkli POST yazısının sağındaki aşağı oka tıklayıp TRY IT OUT tuşuna basın orada dosya seç çıktığını göreceksiniz istediğiniz kedi veya köpek resmini yükleyin ve EXECUTE butonuna tıklayın.Sayfayı biraz aşağı kaydırın ve Response body kısmında tahmin çıkacaktır.Bunu bu şekilde tekrar dosya yükleyip deneyebilirsiniz.
 
-Dockerfile kısmında Docker ile ilgili tüm kodlar hazır şekilde yazılı.Yapmanız gereken tek şey build etmek ve çalıştırmak.
+Dockerfile kısmında Docker ile ilgili tüm kodlar hazır şekilde yazılı.Yapmanız gereken tek şey build etmek ve çalıştırmak...
